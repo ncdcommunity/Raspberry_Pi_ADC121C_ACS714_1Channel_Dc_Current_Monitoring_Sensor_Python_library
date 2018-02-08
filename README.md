@@ -14,7 +14,7 @@ Hardware needed to interface ADC121C_ACS714 Dc current monitoring With Raspberry
 
 1. <a href="https://store.ncd.io/product/1-channel-dc-current-monitor-i2c-mini-module/">ADC121C_ACS714 1-Channel Dc current Monitoring Sensor</a>
 
-2.  <a href="https://store.ncd.io/product/i2c-shield-for-raspberry-pi-3-pi2-with-outward-facing-i2c-port-terminates-over-hdmi-port/">Raspberry Pi I2C Shield</a>
+2. <a href="https://store.ncd.io/product/i2c-shield-for-raspberry-pi-3-pi2-with-outward-facing-i2c-port-terminates-over-hdmi-port/">Raspberry Pi I2C Shield</a>
 
 3. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
